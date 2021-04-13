@@ -1,6 +1,38 @@
 // inputs
 // controlled vs uncontrolled
 // ref
+
+// hw
+// 1
+// inputs (for each create 2 versions - class and functional based)
+// create controlled and uncontrolled <select> component
+// create controlled and uncontrolled checkbox
+// create controlled and uncontrolled radio
+// // create controlled and uncontrolled number input
+// should also create button, that on click will create an object from it and print it on page at the button
+// 2
+// lifecycle
+// have ext input, that has endpoint partition (todos, posts, users) or select input
+// have number picker or text input, that will specify id
+// button, that will fetch data
+// create two versions - controlled and uncontrolled
+// два input (1: posts... 2: /1)
+
+// Serhii Stepanov, [31.03.21 22:59]
+// [Переслано из december-2020-tuesday-chanel]
+// дз  створти 2 інтупи і кнопку
+// перший відповідає за ендпоінт джсон плейсхолдера (перша частина енпоніту) другий- за айдішнік  якщо другого ендпоінту нема- тягнемо весь список  потрібно зробити валідацію на перший інпут- чи ендпоінт існуючий на другий- чи це число і чи воно в рамках 1-100  зробити версію на функціональній компоненті контрольовану і не контрольовану  якщо є час- на класовій компоненті теж таке саме написати
+//
+// Serhii Stepanov, [31.03.21 22:59]
+// [Переслано из december-2020-tuesday-chanel]
+// друга частина дз
+// // inputs (for each create 2 versions- class based and functional based)
+//
+// // create controlled and uncontrolled select component
+// // create controlled and uncontrolled checkbox
+// // create controlled and uncontrolled radio
+
+
 import React, {useState} from "react";
 import './App.css';
 
